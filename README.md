@@ -1,2 +1,2 @@
-# html_css_test
-Hola mundo
+# html_css_test_foundations
+exercises of the odin project's foundation
